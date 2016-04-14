@@ -570,46 +570,30 @@
 			"buffers":
 			[
 				{
-					"contents": "import psycopg2\nimport csv\n\ntry:\n    conn = psycopg2.connect(\"dbname='mydb' user='postgres'\"\n    	\" host='localhost' password='1234'\")\nexcept:\n    print(\"I am unable to connect to the database\")\n\ncur = conn.cursor()\n\ncur.execute('DELETE FROM \"Events\"')\n\nwith open('sample.csv', 'r') as csvfile:\n	spamreader = csv.reader(csvfile, delimiter=',',quotechar='\"')\n	i = 0\n	t = 0\n	next(spamreader)\n	for row in spamreader:\n		# print row[1], row[2], row[4]\n		s = 'INSERT INTO \"Events\" (timestamp, event, user_id, anonymous_id)' \\\n		+ ' VALUES (\\'' \\\n		+ row[1].strip() + '\\', \\'' \\\n		+ row[4].strip() + '\\', \\'' \\\n		+ row[2].strip() + '\\', \\'' \\\n		+ row[3].strip() + '\\')'\n		cur.execute(s)\n		# print s \n		i += 1\n		if i > 1000:\n			t += 1\n			print(t)\n			i = 0\n			# if t > 100:\n			# 	break\n			# break\n\nconn.commit()\n\ncur.execute('SELECT * from \"Events\"')\nrows = cur.fetchall()\n\nprint(\"\\nShow me the databases:\\n\")\n\n\n# for row in rows:\n#     print row[0], \"   \", row[1], \"   \", row[2]\n\n# print \"Hello world\"",
-					"file": "generera.py",
-					"file_size": 1041,
-					"file_write_time": 131044134814927558,
+					"file": "_harp/index.jade",
 					"settings":
 					{
-						"buffer_size": 993,
+						"buffer_size": 457,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "sessions.py",
+					"file": "/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 2297,
-						"line_ending": "Windows"
+						"buffer_size": 1133,
+						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "README.md",
+					"contents": "Package Control Messages\n========================\n\nMaterial Theme\n--------------\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.1.1 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ Add file icon to .swig files\n    ➼ Update .twig file icon\n    ➼ Fix pink autocomplete matched text color\n  \n  \n  🏮 COLOR SCHEME\n  \n    ➼ Fix material theme lighter active guide color (Thanks @stawberri)\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.1.0 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ New setting to set a small search panel (\"material_theme_compact_panel\": true)\n    ➼ New find/replace regex icon\n    ➼ New npm file icon\n    ➼ 3 KABOOM! Completely new accent color. Pink, Blue, Cyan\n  \n  🏮 COLOR SCHEME\n  \n    ➼ Fix active guide color with Lighter theme.\n    ➼ Fix #id selector color for css/sass/scss\n\n\nMaterial Theme - Appbar\n-----------------------\n\n  \n  Material Theme - Appbar Addon\n  https://github.com/equinusocio/material-theme-appbar\n  \n  \n  👉 Version 1.2.0 👈\n  ********************************************************************************\n  \n    ➼ New accent color: pink\n    ➼ New accent color: cyan\n    ➼ New accent color: blue\n  \n    ⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞\n    !! IMPORTANT NOTE !!\n    ⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟\n  \n    FThe appbar doesn't get anymore the color from the material theme accent preference.\n    So, if yuou want ex. indigo tint, you have to set the color separately by adding:\n  \n    {\n      ...\n      \"material_theme_appbar_indigo\": true,\n      ...\n    }\n  \n    By this way you can combine two colors. Check the full preferences in the readme file of the repository.\n",
 					"settings":
 					{
-						"buffer_size": 83,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "countQuery.sql",
-					"settings":
-					{
-						"buffer_size": 176,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "structures.py",
-					"settings":
-					{
-						"buffer_size": 1533,
-						"line_ending": "Windows"
+						"buffer_size": 1905,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
 					}
 				}
 			],
@@ -620,53 +604,41 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 443.0,
-				"last_filter": "int",
+				"height": 79.0,
+				"last_filter": "update",
 				"selected_items":
 				[
 					[
-						"int",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: List Packages"
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
 					],
 					[
 						"packa",
-						"Preferences: Browse Packages"
-					],
-					[
-						"discover",
-						"Package Control: Discover Packages"
-					],
-					[
-						"list",
 						"Package Control: List Packages"
-					],
-					[
-						"upda",
-						"Package Control: Upgrade Package"
 					],
 					[
 						"user",
 						"Preferences: Settings - User"
 					],
 					[
-						"sql",
-						"Set Syntax: SQL"
+						"iser",
+						"Preferences: Settings - User"
 					],
 					[
 						"py",
 						"Set Syntax: Python"
 					],
 					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
 						"less",
 						"Set Syntax: LESS"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
 					],
 					[
 						"pac",
@@ -675,6 +647,10 @@
 					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
 					],
 					[
 						"setting",
@@ -713,7 +689,7 @@
 						"Set Syntax: TeX"
 					]
 				],
-				"width": 443.0
+				"width": 549.0
 			},
 			"console":
 			{
@@ -734,17 +710,15 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/Andreas/Git/Exjobb"
+				"/C/Users/Andreas/Git/andreascmj.github.io",
+				"/C/Users/Andreas/Git/andreascmj.github.io/_harp"
 			],
 			"file_history":
 			[
-				"/C/Users/Andreas/Git/Exjobb/README.md",
-				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
-				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
 				"/C/Users/Andreas/Git/Exjobb/Sample.csv",
 				"/C/Users/Andreas/Git/Exjobb/test.py",
+				"/C/Users/Andreas/Git/Exjobb/sessions.py",
+				"/C/Users/Andreas/Git/Exjobb/generera.py",
 				"/C/Users/Andreas/Git/andreascmj.github.io/_harp/main.less",
 				"/C/Users/Andreas/Documents/Alda/Test.alda",
 				"/C/Users/Andreas/Downloads/starter-template/starter-template/index.html",
@@ -754,6 +728,7 @@
 				"/C/Users/Andreas/Git/andreascmj.github.io/404.html",
 				"/C/Users/Andreas/Git/andreascmj.github.io/CV.html",
 				"/C/Users/Andreas/Git/andreascmj.github.io/index.html",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/Andreas/Dropbox/Skolarbete/Exjobb/Thesis.docx",
 				"/C/Users/Andreas/Git/maskininl-lab1/monkdata.py",
 				"/C/Users/Andreas/Git/maskininl-lab1/ass2.py",
@@ -817,10 +792,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"):\n",
-					"session_spliter",
-					"py",
-					"from structures.py",
 					"len(session",
 					"s",
 					" ",
@@ -944,7 +915,11 @@
 					"                                                                                                            ",
 					"                                                                                                           ",
 					"                                                                                                          ",
-					"                                                                                                         "
+					"                                                                                                         ",
+					"                                                                                                        ",
+					"                                                                                                       ",
+					"                                                                                                      ",
+					"                                                                                                     "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -963,76 +938,46 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "generera.py",
+							"file": "_harp/index.jade",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 993,
+								"buffer_size": 457,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										841,
-										841
+										422,
+										422
 									]
 								],
 								"settings":
 								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
-									"syntax": "Packages/Python/Python.sublime-syntax",
+									"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
+									"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "sessions.py",
+							"file": "/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2297,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										961,
-										961
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 345.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "README.md",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 83,
+								"buffer_size": 1133,
 								"regions":
 								{
 								},
@@ -1045,65 +990,8 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "countQuery.sql",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 176,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										176,
-										176
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker-OceanicNext.tmTheme",
-									"syntax": "Packages/SQL/SQL.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "structures.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1533,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										347,
-										347
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker-OceanicNext.tmTheme",
-									"syntax": "Packages/Python/Python.sublime-syntax",
+									"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
@@ -1111,6 +999,38 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1905,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										120,
+										165
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"tab_width": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1152,8 +1072,8 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,519,360,78,1175",
-			"project": "Exjobb.sublime-project",
+			"position": "0,0,1,-32000,-32000,-1,-1,968,27,163,956",
+			"project": "andreascmj.sublime-project",
 			"replace":
 			{
 				"height": 56.0
@@ -1165,10 +1085,6 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"se",
-						"sessions.py"
-					]
 				],
 				"width": 0.0
 			},
@@ -1180,7 +1096,7 @@
 				[
 					[
 						"",
-						"C:\\Users\\Andreas\\Git\\andreascmj.github.io\\andreascmj.sublime-project"
+						"C:\\Users\\Andreas\\Git\\Exjobb\\Exjobb.sublime-project"
 					]
 				],
 				"width": 475.0
@@ -1199,24 +1115,24 @@
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": false,
+			"show_open_files": false,
+			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 182.0,
+			"side_bar_width": 244.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
 			"window_id": 4,
-			"workspace_name": "/C/Users/Andreas/Git/Exjobb/Exjobb.sublime-workspace"
+			"workspace_name": "/C/Users/Andreas/Git/andreascmj.github.io/andreascmj.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/C/Users/Andreas/Git/Exjobb/Exjobb.sublime-workspace",
-			"/C/Users/Andreas/Git/andreascmj.github.io/andreascmj.sublime-workspace"
+			"/C/Users/Andreas/Git/andreascmj.github.io/andreascmj.sublime-workspace",
+			"/C/Users/Andreas/Git/Exjobb/Exjobb.sublime-workspace"
 		]
 	}
 }
