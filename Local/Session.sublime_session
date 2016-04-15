@@ -7,11 +7,11 @@
 		"/C/Users/Andreas/Git/ml15/l1"
 	],
 	"last_version": 3103,
-	"last_window_id": 4,
+	"last_window_id": 5,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 369.0,
+		"new_window_height": 733.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -19,447 +19,104 @@
 				"selected_items":
 				[
 					[
-						"prin",
-						"printAverageGain"
+						"fin",
+						"final_num_users"
 					],
 					[
-						"ba",
-						"background"
+						"fina",
+						"final_num_snaps"
 					],
 					[
-						"bac",
-						"background-color"
+						"is",
+						"isinstance"
 					],
 					[
-						"syntone",
-						"syntoneLead"
+						"final",
+						"final_session_interval"
 					],
 					[
-						"Do",
-						"document"
-					],
-					[
-						"lo",
-						"location"
-					],
-					[
-						"re",
-						"refreshSwatch"
-					],
-					[
-						"dice",
-						"diceCounterOne"
-					],
-					[
-						"com",
-						"company"
-					],
-					[
-						"co",
-						"companies"
-					],
-					[
-						"get",
-						"get_deals_since"
-					],
-					[
-						"dea",
-						"deals"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 286.0,
-				"last_filter": "insta",
-				"selected_items":
-				[
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"less",
-						"Set Syntax: LESS"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"pac",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
-						"setting",
-						"Preferences: Settings - User"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"mat",
-						"Set Syntax: MATLAB"
-					],
-					[
-						"isnta",
-						"Package Control: Install Package"
-					],
-					[
-						"user",
-						"Preferences: Settings - User"
-					],
-					[
-						"jade",
-						"Set Syntax: Jade"
-					],
-					[
-						"intsal",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Preferences: Browse Packages"
-					],
-					[
-						"java",
-						"Set Syntax: Java"
-					],
-					[
-						"tex",
-						"Set Syntax: TeX"
-					]
-				],
-				"width": 527.0
-			},
-			"console":
-			{
-				"height": 162.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/Users/Andreas/Git/andreascmj.github.io/_harp/main.less",
-				"/C/Users/Andreas/Documents/Alda/Test.alda",
-				"/C/Users/Andreas/Downloads/starter-template/starter-template/index.html",
-				"/C/Users/Andreas/Git/andreascmj.github.io/_harp/index.jade",
-				"/C/Users/Andreas/Documents/Alda/Test",
-				"/C/Users/Andreas/Git/andreascmj.github.io/_harp/_layout.jade",
-				"/C/Users/Andreas/Git/andreascmj.github.io/404.html",
-				"/C/Users/Andreas/Git/andreascmj.github.io/CV.html",
-				"/C/Users/Andreas/Git/andreascmj.github.io/index.html",
-				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Andreas/Dropbox/Skolarbete/Exjobb/Thesis.docx",
-				"/C/Users/Andreas/Git/maskininl-lab1/monkdata.py",
-				"/C/Users/Andreas/Git/maskininl-lab1/ass2.py",
-				"/C/Users/Andreas/Git/maskininl-lab1/ass3.py",
-				"/C/Users/Andreas/Git/maskininl-lab1/ass4.py",
-				"/C/Users/Andreas/Desktop/ACN",
-				"/C/Users/Andreas/Desktop/ACN.html",
-				"/C/Users/Andreas/Git/maskininl-lab1/ass1.py",
-				"/C/Users/Andreas/Git/ml15/l1/t1.py",
-				"/C/Users/Andreas/Git/maskininl-lab1/drawtree.py",
-				"/C/Users/Andreas/Git/maskininl-lab1/dtree.py",
-				"/C/Users/Andreas/Git/ml15/l1/dtree.py",
-				"/C/Users/Andreas/Git/ml15/l1/monkdata.py",
-				"/C/Users/Andreas/Git/ml15/l1/drawtree.py",
-				"/C/Users/Andreas/Desktop/TODO.txt",
-				"/C/Users/Andreas/ClionProjects/oslabb/start.sh",
-				"/C/Users/Andreas/Git/syntone/public/pd/bitcrush.pd",
-				"/C/Users/Andreas/Git/syntone/views/partials/lead.jade",
-				"/C/Users/Andreas/Git/syntone/views/partials/bass.jade",
-				"/C/Users/Andreas/Git/syntone/public/stylesheets/style.css",
-				"/C/Users/Andreas/Git/syntone/public/javascripts/main.js",
-				"/C/Users/Andreas/Git/syntone/views/index.jade",
-				"/C/Users/Andreas/Desktop/test.pd",
-				"/C/Users/Andreas/Git/syntone/views/samples.jade",
-				"/C/Users/Andreas/Git/syntone/public/javascripts/tester.js",
-				"/C/Users/Andreas/Git/WebPDTest/index.html",
-				"/C/Users/Andreas/Git/syntone/views/error.jade",
-				"/C/Users/Andreas/Git/syntone/views/layout.jade",
-				"/C/Users/Andreas/Desktop/Hackathon 2015 docs-1.txt",
-				"/C/Users/Andreas/Git/GpsGateTeam5/main.css",
-				"/C/Users/Andreas/Git/GpsGateTeam5/STUDSexample.html",
-				"/C/Users/Andreas/Git/GpsGateTeam5/geolocation.html",
-				"/C/Users/Andreas/Desktop/STUDSexample.html",
-				"/C/Users/Andreas/Git/WebPDTest/patches/main.pd",
-				"/C/Users/Andreas/Git/WebPDTest/patches/main2.pd",
-				"/C/Users/Andreas/Desktop/diceCounter.java",
-				"/C/Users/Andreas/Downloads/pd-alternative-themes/README",
-				"/C/Users/Andreas/Git/EdgeGuide/src/test.py",
-				"/C/Users/Andreas/Git/EdgeGuide/src/server.py",
-				"/C/Users/Andreas/Git/EdgeGuide/server.py",
-				"/C/Users/Andreas/Downloads/acm_proc_article-sp.cls",
-				"/C/Users/Andreas/Downloads/sigproc-sp.tex",
-				"/C/cygwin64/etc/nsswitch.conf",
-				"/C/Users/Andreas/Google Drive/REME/TP Artiklar/Sources.txt",
-				"/C/Users/Andreas/Downloads/ConEmuPack.150203/aliases.cmd"
-			],
-			"find":
-			{
-				"height": 31.0
-			},
-			"find_in_files":
-			{
-				"height": 120.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"+",
-					"\n",
-					"\"",
-					"yield",
-					"	",
-					"      ",
-					"·       ",
-					" ",
-					"                                                                                                                                                                                              ",
-					"                                                                                                                                                                                             ",
-					"                                                                                                                                                                                            ",
-					"                                                                                                                                                                                           ",
-					"                                                                                                                                                                                          ",
-					"                                                                                                                                                                                         ",
-					"                                                                                                                                                                                        ",
-					"                                                                                                                                                                                       ",
-					"                                                                                                                                                                                      ",
-					"                                                                                                                                                                                     ",
-					"                                                                                                                                                                                    ",
-					"                                                                                                                                                                                   ",
-					"                                                                                                                                                                                  ",
-					"                                                                                                                                                                                 ",
-					"                                                                                                                                                                                ",
-					"                                                                                                                                                                               ",
-					"                                                                                                                                                                              ",
-					"                                                                                                                                                                             ",
-					"                                                                                                                                                                            ",
-					"                                                                                                                                                                           ",
-					"                                                                                                                                                                          ",
-					"                                                                                                                                                                         ",
-					"                                                                                                                                                                        ",
-					"                                                                                                                                                                       ",
-					"                                                                                                                                                                      ",
-					"                                                                                                                                                                     ",
-					"                                                                                                                                                                    ",
-					"                                                                                                                                                                   ",
-					"                                                                                                                                                                  ",
-					"                                                                                                                                                                 ",
-					"                                                                                                                                                                ",
-					"                                                                                                                                                               ",
-					"                                                                                                                                                              ",
-					"                                                                                                                                                             ",
-					"                                                                                                                                                            ",
-					"                                                                                                                                                           ",
-					"                                                                                                                                                          ",
-					"                                                                                                                                                         ",
-					"                                                                                                                                                        ",
-					"                                                                                                                                                       ",
-					"                                                                                                                                                      ",
-					"                                                                                                                                                     ",
-					"                                                                                                                                                    ",
-					"                                                                                                                                                   ",
-					"                                                                                                                                                  ",
-					"                                                                                                                                                 ",
-					"                                                                                                                                                ",
-					"                                                                                                                                               ",
-					"                                                                                                                                              ",
-					"                                                                                                                                             ",
-					"                                                                                                                                            ",
-					"                                                                                                                                           ",
-					"                                                                                                                                          ",
-					"                                                                                                                                         ",
-					"                                                                                                                                        ",
-					"                                                                                                                                       ",
-					"                                                                                                                                      ",
-					"                                                                                                                                     ",
-					"                                                                                                                                    ",
-					"                                                                                                                                   ",
-					"                                                                                                                                  ",
-					"                                                                                                                                 ",
-					"                                                                                                                                ",
-					"                                                                                                                               ",
-					"                                                                                                                              ",
-					"                                                                                                                             ",
-					"                                                                                                                            ",
-					"                                                                                                                           ",
-					"                                                                                                                          ",
-					"                                                                                                                         ",
-					"                                                                                                                        ",
-					"                                                                                                                       ",
-					"                                                                                                                      ",
-					"                                                                                                                     ",
-					"                                                                                                                    ",
-					"                                                                                                                   ",
-					"                                                                                                                  ",
-					"                                                                                                                 ",
-					"                                                                                                                ",
-					"                                                                                                               ",
-					"                                                                                                              ",
-					"                                                                                                             ",
-					"                                                                                                            ",
-					"                                                                                                           ",
-					"                                                                                                          ",
-					"                                                                                                         ",
-					"                                                                                                        ",
-					"                                                                                                       ",
-					"                                                                                                      ",
-					"                                                                                                     ",
-					"                                                                                                    ",
-					"                                                                                                   ",
-					"                                                                                                  ",
-					"                                                                                                 ",
-					"                                                                                                ",
-					"                                                                                               ",
-					"                                                                                              ",
-					"                                                                                             ",
-					"                                                                                            ",
-					"                                                                                           ",
-					"                                                                                          ",
-					"                                                                                         ",
-					"                                                                                        ",
-					"                                                                                       ",
-					"                                                                                      ",
-					"                                                                                     ",
-					"                                                                                    ",
-					"                                                                                   ",
-					"                                                                                  ",
-					"                                                                                 ",
-					"                                                                                ",
-					"                                                                               ",
-					"                                                                              ",
-					"                                                                             ",
-					"                                                                            ",
-					"                                                                           ",
-					"                                                                          ",
-					"                                                                         ",
-					"                                                                        ",
-					"                                                                       "
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					""
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 31.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"menu_visible": false,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 58.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 200.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 942.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"event",
-						"event_string"
+						"sn",
+						"snaps"
 					],
 					[
 						"ses",
-						"sessionlist"
+						"session"
 					],
 					[
 						"time",
-						"timestamp"
+						"timedelta"
+					],
+					[
+						"tot",
+						"total_sessions"
+					],
+					[
+						"get",
+						"get_total_time"
+					],
+					[
+						"print_",
+						"print_session_total"
+					],
+					[
+						"pri",
+						"print_result"
+					],
+					[
+						"tota",
+						"total_snaps"
+					],
+					[
+						"pre",
+						"pretty_print_dict_sorted"
+					],
+					[
+						"to",
+						"total_dict"
+					],
+					[
+						"sor",
+						"sorted"
+					],
+					[
+						"prett",
+						"pretty_print_dict_sorted"
+					],
+					[
+						"dic",
+						"dict_to_print"
+					],
+					[
+						"pr",
+						"print_sessions_per_user"
+					],
+					[
+						"u",
+						"users"
 					],
 					[
 						"use",
-						"users"
+						"userdict"
+					],
+					[
+						"eve",
+						"event_type"
+					],
+					[
+						"snap",
+						"snap_dict"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"sna",
+						"snap_dict"
+					],
+					[
+						"event",
+						"event_string"
 					],
 					[
 						"sess",
@@ -492,10 +149,6 @@
 					[
 						"co",
 						"connect_to_db"
-					],
-					[
-						"sna",
-						"snaps"
 					],
 					[
 						"diff",
@@ -558,87 +211,80 @@
 						"company"
 					],
 					[
-						"get",
-						"get_deals_since"
-					],
-					[
 						"dea",
 						"deals"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "_harp/index.jade",
-					"settings":
-					{
-						"buffer_size": 457,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 1133,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nMaterial Theme\n--------------\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.1.1 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ Add file icon to .swig files\n    ➼ Update .twig file icon\n    ➼ Fix pink autocomplete matched text color\n  \n  \n  🏮 COLOR SCHEME\n  \n    ➼ Fix material theme lighter active guide color (Thanks @stawberri)\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.1.0 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ New setting to set a small search panel (\"material_theme_compact_panel\": true)\n    ➼ New find/replace regex icon\n    ➼ New npm file icon\n    ➼ 3 KABOOM! Completely new accent color. Pink, Blue, Cyan\n  \n  🏮 COLOR SCHEME\n  \n    ➼ Fix active guide color with Lighter theme.\n    ➼ Fix #id selector color for css/sass/scss\n\n\nMaterial Theme - Appbar\n-----------------------\n\n  \n  Material Theme - Appbar Addon\n  https://github.com/equinusocio/material-theme-appbar\n  \n  \n  👉 Version 1.2.0 👈\n  ********************************************************************************\n  \n    ➼ New accent color: pink\n    ➼ New accent color: cyan\n    ➼ New accent color: blue\n  \n    ⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞\n    !! IMPORTANT NOTE !!\n    ⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟\n  \n    FThe appbar doesn't get anymore the color from the material theme accent preference.\n    So, if yuou want ex. indigo tint, you have to set the color separately by adding:\n  \n    {\n      ...\n      \"material_theme_appbar_indigo\": true,\n      ...\n    }\n  \n    By this way you can combine two colors. Check the full preferences in the readme file of the repository.\n",
-					"settings":
-					{
-						"buffer_size": 1905,
-						"line_ending": "Windows",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 79.0,
-				"last_filter": "update",
+				"height": 443.0,
+				"last_filter": "user",
 				"selected_items":
 				[
 					[
-						"update",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
 						"user",
-						"Preferences: Settings - User"
+						"Preferences: Key Bindings - User"
 					],
 					[
-						"iser",
-						"Preferences: Settings - User"
+						"key b",
+						"Preferences: Key Bindings - Default"
 					],
 					[
-						"py",
-						"Set Syntax: Python"
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"less",
-						"Set Syntax: LESS"
+						"lint",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"int",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					],
+					[
+						"discover",
+						"Package Control: Discover Packages"
 					],
 					[
 						"list",
 						"Package Control: List Packages"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"less",
+						"Set Syntax: LESS"
 					],
 					[
 						"pac",
@@ -647,14 +293,6 @@
 					[
 						"install",
 						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
-						"setting",
-						"Preferences: Settings - User"
 					],
 					[
 						"inst",
@@ -708,17 +346,18 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/C/Users/Andreas/Git/andreascmj.github.io",
-				"/C/Users/Andreas/Git/andreascmj.github.io/_harp"
-			],
 			"file_history":
 			[
-				"/C/Users/Andreas/Git/Exjobb/Sample.csv",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
 				"/C/Users/Andreas/Git/Exjobb/test.py",
 				"/C/Users/Andreas/Git/Exjobb/sessions.py",
-				"/C/Users/Andreas/Git/Exjobb/generera.py",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Andreas/Git/Exjobb/README.md",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/Andreas/Git/Exjobb/Sample.csv",
 				"/C/Users/Andreas/Git/andreascmj.github.io/_harp/main.less",
 				"/C/Users/Andreas/Documents/Alda/Test.alda",
 				"/C/Users/Andreas/Downloads/starter-template/starter-template/index.html",
@@ -728,7 +367,6 @@
 				"/C/Users/Andreas/Git/andreascmj.github.io/404.html",
 				"/C/Users/Andreas/Git/andreascmj.github.io/CV.html",
 				"/C/Users/Andreas/Git/andreascmj.github.io/index.html",
-				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/Andreas/Dropbox/Skolarbete/Exjobb/Thesis.docx",
 				"/C/Users/Andreas/Git/maskininl-lab1/monkdata.py",
 				"/C/Users/Andreas/Git/maskininl-lab1/ass2.py",
@@ -777,7 +415,7 @@
 			],
 			"find":
 			{
-				"height": 86.0
+				"height": 58.0
 			},
 			"find_in_files":
 			{
@@ -792,6 +430,58 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"num_users",
+					"cont",
+					"True",
+					"total_sessions",
+					"new_dict",
+					"total_snaps",
+					"total_dict",
+					"sessiondict[users].sessionlist",
+					"str(",
+					"y",
+					"x",
+					"user",
+					"+p",
+					":",
+					"ws",
+					"print",
+					"snap[1]",
+					"snap[0]",
+					"event_type",
+					"x",
+					"Vit",
+					"bakgrund",
+					"grund",
+					"Lila",
+					"Mörk",
+					"Orange",
+					"Grey",
+					"Grå",
+					"grå",
+					"Grå",
+					"\\033",
+					"Nummer:",
+					"\\033[",
+					"self.",
+					"colorcode =",
+					"fancy_print",
+					"snaps",
+					"spamreader",
+					"cur",
+					"conn",
+					"t",
+					"T",
+					"t",
+					"Session_set",
+					"c",
+					"sn",
+					"foo",
+					"	",
+					"):\n",
+					"session_spliter",
+					"py",
+					"from structures.py",
 					"len(session",
 					"s",
 					" ",
@@ -867,59 +557,794 @@
 					"                                                                                                                                                            ",
 					"                                                                                                                                                           ",
 					"                                                                                                                                                          ",
-					"                                                                                                                                                         ",
-					"                                                                                                                                                        ",
-					"                                                                                                                                                       ",
-					"                                                                                                                                                      ",
-					"                                                                                                                                                     ",
-					"                                                                                                                                                    ",
-					"                                                                                                                                                   ",
-					"                                                                                                                                                  ",
-					"                                                                                                                                                 ",
-					"                                                                                                                                                ",
-					"                                                                                                                                               ",
-					"                                                                                                                                              ",
-					"                                                                                                                                             ",
-					"                                                                                                                                            ",
-					"                                                                                                                                           ",
-					"                                                                                                                                          ",
-					"                                                                                                                                         ",
-					"                                                                                                                                        ",
-					"                                                                                                                                       ",
-					"                                                                                                                                      ",
-					"                                                                                                                                     ",
-					"                                                                                                                                    ",
-					"                                                                                                                                   ",
-					"                                                                                                                                  ",
-					"                                                                                                                                 ",
-					"                                                                                                                                ",
-					"                                                                                                                               ",
-					"                                                                                                                              ",
-					"                                                                                                                             ",
-					"                                                                                                                            ",
-					"                                                                                                                           ",
-					"                                                                                                                          ",
-					"                                                                                                                         ",
-					"                                                                                                                        ",
-					"                                                                                                                       ",
-					"                                                                                                                      ",
-					"                                                                                                                     ",
-					"                                                                                                                    ",
-					"                                                                                                                   ",
-					"                                                                                                                  ",
-					"                                                                                                                 ",
-					"                                                                                                                ",
-					"                                                                                                               ",
-					"                                                                                                              ",
-					"                                                                                                             ",
-					"                                                                                                            ",
-					"                                                                                                           ",
-					"                                                                                                          ",
-					"                                                                                                         ",
-					"                                                                                                        ",
-					"                                                                                                       ",
-					"                                                                                                      ",
-					"                                                                                                     "
+					"                                                                                                                                                         "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"structures.py"
+					],
+					[
+						"test",
+						"test.py"
+					],
+					[
+						"se",
+						"sessions.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Andreas\\Git\\andreascmj.github.io\\andreascmj.sublime-project"
+					]
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 182.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 865.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pack",
+						"packages"
+					],
+					[
+						"fin",
+						"final_num_users"
+					],
+					[
+						"fina",
+						"final_num_snaps"
+					],
+					[
+						"is",
+						"isinstance"
+					],
+					[
+						"final",
+						"final_session_interval"
+					],
+					[
+						"sn",
+						"snaps"
+					],
+					[
+						"ses",
+						"session"
+					],
+					[
+						"time",
+						"timedelta"
+					],
+					[
+						"tot",
+						"total_sessions"
+					],
+					[
+						"get",
+						"get_total_time"
+					],
+					[
+						"print_",
+						"print_session_total"
+					],
+					[
+						"pri",
+						"print_result"
+					],
+					[
+						"tota",
+						"total_snaps"
+					],
+					[
+						"pre",
+						"pretty_print_dict_sorted"
+					],
+					[
+						"to",
+						"total_dict"
+					],
+					[
+						"sor",
+						"sorted"
+					],
+					[
+						"prett",
+						"pretty_print_dict_sorted"
+					],
+					[
+						"dic",
+						"dict_to_print"
+					],
+					[
+						"pr",
+						"print_sessions_per_user"
+					],
+					[
+						"u",
+						"users"
+					],
+					[
+						"use",
+						"userdict"
+					],
+					[
+						"eve",
+						"event_type"
+					],
+					[
+						"snap",
+						"snap_dict"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"sna",
+						"snap_dict"
+					],
+					[
+						"event",
+						"event_string"
+					],
+					[
+						"sess",
+						"session_set"
+					],
+					[
+						"Se",
+						"Session"
+					],
+					[
+						"Ses",
+						"Session"
+					],
+					[
+						"get_",
+						"get_latest"
+					],
+					[
+						"se",
+						"session"
+					],
+					[
+						"user",
+						"user_string"
+					],
+					[
+						"test",
+						"testtwo"
+					],
+					[
+						"co",
+						"connect_to_db"
+					],
+					[
+						"diff",
+						"diffstring"
+					],
+					[
+						"a",
+						"auser"
+					],
+					[
+						"old",
+						"oldauser"
+					],
+					[
+						"s1",
+						"s1w"
+					],
+					[
+						"ex",
+						"execute"
+					],
+					[
+						"csv",
+						"csvfile"
+					],
+					[
+						"prin",
+						"printAverageGain"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"syntone",
+						"syntoneLead"
+					],
+					[
+						"Do",
+						"document"
+					],
+					[
+						"lo",
+						"location"
+					],
+					[
+						"re",
+						"refreshSwatch"
+					],
+					[
+						"dice",
+						"diceCounterOne"
+					],
+					[
+						"com",
+						"company"
+					],
+					[
+						"dea",
+						"deals"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "generera.py",
+					"settings":
+					{
+						"buffer_size": 841,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "countQuery.sql",
+					"settings":
+					{
+						"buffer_size": 176,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "sessions.py",
+					"settings":
+					{
+						"buffer_size": 6207,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "test.r",
+					"settings":
+					{
+						"buffer_size": 739,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "hejsan.r",
+					"settings":
+					{
+						"buffer_size": 15,
+						"line_ending": "Windows",
+						"name": "\"Hejsan hejsan\""
+					}
+				},
+				{
+					"file": "structures.py",
+					"settings":
+					{
+						"buffer_size": 2872,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "test.py",
+					"settings":
+					{
+						"buffer_size": 674,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/repls/subprocess_repl.py",
+					"settings":
+					{
+						"buffer_size": 8564,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\nR version 3.2.5 (2016-04-14) -- \"Very, Very Secure Dishes\"\nCopyright (C) 2016 The R Foundation for Statistical Computing\nPlatform: x86_64-w64-mingw32/x64 (64-bit)\n\nR is free software and comes with ABSOLUTELY NO WARRANTY.\nYou are welcome to redistribute it under certain conditions.\nType 'license()' or 'licence()' for distribution details.\n\nR is a collaborative project with many contributors.\nType 'contributors()' for more information and\n'citation()' on how to cite R or R packages in publications.\n\nType 'demo()' for some demos, 'help()' for on-line help, or\n'help.start()' for an HTML browser interface to help.\nType 'q()' to quit R.\n\n> library(\"RPostgreSQL\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \n\nlibrary(\"ggplot2\")\ndf = data.frame(gp = factor(rep(letters[1:3], each = 10)),\n                 y = rnorm(30))\n# Compute sample mean and standard deviation in each group\nlibrary(plyr)\nds = ddply(df, .(gp), summarise, mean = mean(y), sd = sd(y))\n\n# Declare the data frame and common aesthetics.\n# The summary data frame ds is used to plot\n# larger red points in a second geom_point() layer.\n# If the data = argument is not specified, it uses the\n# declared data frame from ggplot(); ditto for the aesthetics.\nggplot(df, aes(x = gp, y = y)) +\n   geom_point() +\n   geom_point(data = ds, aes(y = mean),\n              colour = 'red', size = 3)\n\n# ggplot() +\n#   geom_point(data = df, aes(x = gp, y = y)) +\n#   geom_point(data = ds, aes(x = gp, y = mean),\n#                         colour = 'red', size = 3) +\n#   geom_errorbar(data = ds, aes(x = gp, y = mean,\n#                     ymin = mean - sd, ymax = mean + sd),\n#                     colour = 'red', width = 0.4)\nLoading required package: DBI\n> > > > > > > > > > > > > > > > > > > > > > > > > + > > > > > > > > > > + + + > > > > > > > > > library(\"RPostgreSQL\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \n\nlibrary(\"ggplot2\")\ndf = data.frame(gp = factor(rep(letters[1:3], each = 10)),\n                 y = rnorm(30))\n# Compute sample mean and standard deviation in each group\nlibrary(plyr)\nds = ddply(df, .(gp), summarise, mean = mean(y), sd = sd(y))\n\n# Declare the data frame and common aesthetics.\n# The summary data frame ds is used to plot\n# larger red points in a second geom_point() layer.\n# If the data = argument is not specified, it uses the\n# declared data frame from ggplot(); ditto for the aesthetics.\nggplot(df, aes(x = gp, y = y)) +\n   geom_point() +\n   geom_point(data = ds, aes(y = mean),\n              colour = 'blue', size = 3)\n\n# ggplot() +\n#   geom_point(data = df, aes(x = gp, y = y)) +\n#   geom_point(data = ds, aes(x = gp, y = mean),\n#                         colour = 'red', size = 3) +\n#   geom_errorbar(data = ds, aes(x = gp, y = mean,\n#                     ymin = mean - sd, ymax = mean + sd),\n#                     colour = 'red', width = 0.4)\n> > > > > > > > > > > > > > > > > > > > > > > > > + > > > > > > > > > > + + + > > > > > > > > > library(\"RPostgreSQL\")\nlibrary(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 2, 3, 4 ,5)\n # hist()\n> > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\nlibrary(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 2, 3, 4 ,5)\nx\n # hist()\n> > > > > > > > > > > > > > > > > > > > > > > > > [1] 1 2 3 4 5\n> > library(\"RPostgreSQL\")\nlibrary(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 2, 3, 4 ,5)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\nlibrary(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\nlibrary(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\nlibrary(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 9)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 9)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 9)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 19)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 9, 19)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 10, 20)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 10, 20)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(-1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 10, 20)\n# x\nhist(x)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(-1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 10, 20)\n# x\nhist(x, 3)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(-1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 10, 20)\n# x\nhist(x, 20)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > library(\"RPostgreSQL\")\n# library(\"ggplot2\")\n\n# create a connection\n# save the password that we can \"hide\" it as best as we can by collapsing it\n# pw = {\n#   \"1234\"\n# }\n \n# loads the PostgreSQL driver\n# drv = dbDriver(\"PostgreSQL\")\n# creates a connection to the postgres database\n# note that \"con\" will be used later in each connection to the database\n# con = dbConnect(drv, dbname = \"mydb\",\n#                  host = \"localhost\", port = 5432,\n#                  user = \"postgres\", password = pw)\n# rm(pw) # removes the password\n \n# check for the cartable\n# dbExistsTable(con, \"Events\")	\n# TRUE\n\n# df_postgres = dbGetQuery(con, 'SELECT * FROM \"Events\"')\n \nx = c(-1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 4 ,5, 5, 5, 5, 5, 5, 5, 10, 20)\n# x\nhist(x, 25)\n> > > > > > > > > > > > > > > > > > > > > > > > > > > ",
+					"settings":
+					{
+						"buffer_size": 16483,
+						"line_ending": "Windows",
+						"name": "*REPL* [r]",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "Packages/SendTextPlus/R - Source File.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/SendTextPlus/R - Source File.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SendTextPlus/R - Source File.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 443.0,
+				"last_filter": "r",
+				"selected_items":
+				[
+					[
+						"r",
+						"SublimeREPL: R"
+					],
+					[
+						"ans",
+						"Set Syntax: ANSI"
+					],
+					[
+						"pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"ansi",
+						"Set Syntax: ANSI"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"shel",
+						"SublimeREPL: Shell"
+					],
+					[
+						"repl r",
+						"SublimeREPL: R"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"repl py",
+						"SublimeREPL: Python"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"package settin",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"user",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"key b",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"lint",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"int",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					],
+					[
+						"discover",
+						"Package Control: Discover Packages"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"less",
+						"Set Syntax: LESS"
+					],
+					[
+						"pac",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"mat",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"intsal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"tex",
+						"Set Syntax: TeX"
+					]
+				],
+				"width": 549.0
+			},
+			"console":
+			{
+				"height": 361.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Andreas/Git/Exjobb"
+			],
+			"file_history":
+			[
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/repls/subprocess_repl.py",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Andreas/Git/Exjobb/test.py",
+				"/C/Users/Andreas/Git/Exjobb/sessions.py",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Andreas/Git/Exjobb/README.md",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/Andreas/Git/Exjobb/Sample.csv",
+				"/C/Users/Andreas/Git/andreascmj.github.io/_harp/main.less",
+				"/C/Users/Andreas/Documents/Alda/Test.alda",
+				"/C/Users/Andreas/Downloads/starter-template/starter-template/index.html",
+				"/C/Users/Andreas/Git/andreascmj.github.io/_harp/index.jade",
+				"/C/Users/Andreas/Documents/Alda/Test",
+				"/C/Users/Andreas/Git/andreascmj.github.io/_harp/_layout.jade",
+				"/C/Users/Andreas/Git/andreascmj.github.io/404.html",
+				"/C/Users/Andreas/Git/andreascmj.github.io/CV.html",
+				"/C/Users/Andreas/Git/andreascmj.github.io/index.html",
+				"/C/Users/Andreas/Dropbox/Skolarbete/Exjobb/Thesis.docx",
+				"/C/Users/Andreas/Git/maskininl-lab1/monkdata.py",
+				"/C/Users/Andreas/Git/maskininl-lab1/ass2.py",
+				"/C/Users/Andreas/Git/maskininl-lab1/ass3.py",
+				"/C/Users/Andreas/Git/maskininl-lab1/ass4.py",
+				"/C/Users/Andreas/Desktop/ACN",
+				"/C/Users/Andreas/Desktop/ACN.html",
+				"/C/Users/Andreas/Git/maskininl-lab1/ass1.py",
+				"/C/Users/Andreas/Git/ml15/l1/t1.py",
+				"/C/Users/Andreas/Git/maskininl-lab1/drawtree.py",
+				"/C/Users/Andreas/Git/maskininl-lab1/dtree.py",
+				"/C/Users/Andreas/Git/ml15/l1/dtree.py",
+				"/C/Users/Andreas/Git/ml15/l1/monkdata.py",
+				"/C/Users/Andreas/Git/ml15/l1/drawtree.py",
+				"/C/Users/Andreas/Desktop/TODO.txt",
+				"/C/Users/Andreas/ClionProjects/oslabb/start.sh",
+				"/C/Users/Andreas/Git/syntone/public/pd/bitcrush.pd",
+				"/C/Users/Andreas/Git/syntone/views/partials/lead.jade",
+				"/C/Users/Andreas/Git/syntone/views/partials/bass.jade",
+				"/C/Users/Andreas/Git/syntone/public/stylesheets/style.css",
+				"/C/Users/Andreas/Git/syntone/public/javascripts/main.js",
+				"/C/Users/Andreas/Git/syntone/views/index.jade",
+				"/C/Users/Andreas/Desktop/test.pd",
+				"/C/Users/Andreas/Git/syntone/views/samples.jade",
+				"/C/Users/Andreas/Git/syntone/public/javascripts/tester.js",
+				"/C/Users/Andreas/Git/WebPDTest/index.html",
+				"/C/Users/Andreas/Git/syntone/views/error.jade",
+				"/C/Users/Andreas/Git/syntone/views/layout.jade",
+				"/C/Users/Andreas/Desktop/Hackathon 2015 docs-1.txt",
+				"/C/Users/Andreas/Git/GpsGateTeam5/main.css",
+				"/C/Users/Andreas/Git/GpsGateTeam5/STUDSexample.html",
+				"/C/Users/Andreas/Git/GpsGateTeam5/geolocation.html",
+				"/C/Users/Andreas/Desktop/STUDSexample.html",
+				"/C/Users/Andreas/Git/WebPDTest/patches/main.pd",
+				"/C/Users/Andreas/Git/WebPDTest/patches/main2.pd",
+				"/C/Users/Andreas/Desktop/diceCounter.java",
+				"/C/Users/Andreas/Downloads/pd-alternative-themes/README",
+				"/C/Users/Andreas/Git/EdgeGuide/src/test.py",
+				"/C/Users/Andreas/Git/EdgeGuide/src/server.py",
+				"/C/Users/Andreas/Git/EdgeGuide/server.py",
+				"/C/Users/Andreas/Downloads/acm_proc_article-sp.cls",
+				"/C/Users/Andreas/Downloads/sigproc-sp.tex",
+				"/C/cygwin64/etc/nsswitch.conf",
+				"/C/Users/Andreas/Google Drive/REME/TP Artiklar/Sources.txt",
+				"/C/Users/Andreas/Downloads/ConEmuPack.150203/aliases.cmd"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 120.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"<-",
+					"require",
+					"<-",
+					"\"",
+					"<-",
+					"num_users",
+					"cont",
+					"True",
+					"total_sessions",
+					"new_dict",
+					"total_snaps",
+					"total_dict",
+					"sessiondict[users].sessionlist",
+					"str(",
+					"y",
+					"x",
+					"user",
+					"+p",
+					":",
+					"ws",
+					"print",
+					"snap[1]",
+					"snap[0]",
+					"event_type",
+					"x",
+					"Vit",
+					"bakgrund",
+					"grund",
+					"Lila",
+					"Mörk",
+					"Orange",
+					"Grey",
+					"Grå",
+					"grå",
+					"Grå",
+					"\\033",
+					"Nummer:",
+					"\\033[",
+					"self.",
+					"colorcode =",
+					"fancy_print",
+					"snaps",
+					"spamreader",
+					"cur",
+					"conn",
+					"t",
+					"T",
+					"t",
+					"Session_set",
+					"c",
+					"sn",
+					"foo",
+					"	",
+					"):\n",
+					"session_spliter",
+					"py",
+					"from structures.py",
+					"len(session",
+					"s",
+					" ",
+					"user_string",
+					"get_latest().",
+					"get_latest()",
+					"fancy_print()",
+					"Session(",
+					"arg",
+					"sessionmap",
+					"sessions",
+					"oldtime",
+					"auser",
+					"_",
+					"difftime",
+					"s1",
+					"arg",
+					"session",
+					"2",
+					"if",
+					"elif",
+					"el",
+					"d",
+					"1",
+					"trim",
+					"]",
+					"'",
+					"\"",
+					"'",
+					"\"\"\"",
+					"+",
+					"\n",
+					"\"",
+					"yield",
+					"	",
+					"      ",
+					"·       ",
+					" ",
+					"                                                                                                                                                                                              ",
+					"                                                                                                                                                                                             ",
+					"                                                                                                                                                                                            ",
+					"                                                                                                                                                                                           ",
+					"                                                                                                                                                                                          ",
+					"                                                                                                                                                                                         ",
+					"                                                                                                                                                                                        ",
+					"                                                                                                                                                                                       ",
+					"                                                                                                                                                                                      ",
+					"                                                                                                                                                                                     ",
+					"                                                                                                                                                                                    ",
+					"                                                                                                                                                                                   ",
+					"                                                                                                                                                                                  ",
+					"                                                                                                                                                                                 ",
+					"                                                                                                                                                                                ",
+					"                                                                                                                                                                               ",
+					"                                                                                                                                                                              ",
+					"                                                                                                                                                                             ",
+					"                                                                                                                                                                            ",
+					"                                                                                                                                                                           ",
+					"                                                                                                                                                                          ",
+					"                                                                                                                                                                         ",
+					"                                                                                                                                                                        ",
+					"                                                                                                                                                                       ",
+					"                                                                                                                                                                      ",
+					"                                                                                                                                                                     ",
+					"                                                                                                                                                                    ",
+					"                                                                                                                                                                   ",
+					"                                                                                                                                                                  ",
+					"                                                                                                                                                                 ",
+					"                                                                                                                                                                ",
+					"                                                                                                                                                               ",
+					"                                                                                                                                                              "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -938,93 +1363,124 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "_harp/index.jade",
+							"file": "generera.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 457,
+								"buffer_size": 841,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										422,
-										422
+										565,
+										565
 									]
 								],
 								"settings":
 								{
-									"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
-									"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"file": "countQuery.sql",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1133,
+								"buffer_size": 176,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										176,
+										176
 									]
 								],
 								"settings":
 								{
-									"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker-OceanicNext.tmTheme",
+									"syntax": "Packages/SQL/SQL.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "sessions.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6207,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										694,
+										694
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+									"history_list_is_closing": true,
+									"open_with_edit": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 112.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
+							"buffer": 3,
+							"file": "test.r",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1905,
+								"buffer_size": 739,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										120,
-										165
+										594,
+										594
 									]
 								],
 								"settings":
 								{
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"tab_width": 2,
-									"translate_tabs_to_spaces": true,
-									"word_wrap": true
+									"open_with_edit": true,
+									"r_box_status": false,
+									"syntax": "Packages/R/R.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1032,13 +1488,240 @@
 							},
 							"stack_index": 0,
 							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "hejsan.r",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14,
+										14
+									]
+								],
+								"settings":
+								{
+									"auto_name": "\"Hejsan hejsan\"",
+									"syntax": "Packages/R/R.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "structures.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2872,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										312,
+										312
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker-OceanicNext.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 674,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										382,
+										382
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker-OceanicNext (SL).tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/Andreas/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/repls/subprocess_repl.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8564,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5313,
+										5313
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3458.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 8,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16483,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16483,
+										16483
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"auto_indent": false,
+									"default_dir": "C:\\Users\\Andreas\\Git\\Exjobb",
+									"detect_indentation": false,
+									"gutter": false,
+									"history_arrows": true,
+									"indent_subsequent_lines": false,
+									"line_numbers": false,
+									"repl": true,
+									"repl_external_id": "r",
+									"repl_id": "91b7799e64214bf297ba5709ae1a9fa3",
+									"repl_restart_args":
+									{
+										"additional_scopes":
+										[
+											"tex.latex.knitr"
+										],
+										"cmd":
+										{
+											"linux":
+											[
+												"R",
+												"--interactive",
+												"--no-readline"
+											],
+											"osx":
+											[
+												"R",
+												"--interactive",
+												"--no-readline"
+											],
+											"windows":
+											[
+												"Rterm.exe",
+												"--ess",
+												"--encoding=$win_cmd_encoding"
+											]
+										},
+										"cmd_postfix": "\n",
+										"cwd": "$file_path",
+										"encoding":
+										{
+											"linux": "utf8",
+											"osx": "utf8",
+											"windows": "$win_cmd_encoding"
+										},
+										"extend_env":
+										{
+											"linux":
+											{
+												"PATH": "{PATH}:/usr/local/bin"
+											},
+											"osx":
+											{
+												"PATH": "{PATH}:/usr/local/bin"
+											},
+											"windows":
+											{
+											}
+										},
+										"external_id": "r",
+										"soft_quit": "\nquit(save=\"no\")\n",
+										"suppress_echo":
+										{
+											"linux": true,
+											"osx": true,
+											"windows": false
+										},
+										"syntax": "Packages/R/R Console.tmLanguage",
+										"type": "subprocess"
+									},
+									"repl_sublime2": false,
+									"smart_indent": false,
+									"spell_check": false,
+									"syntax": "Packages/R/R Console.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 12693.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
 						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -1053,11 +1736,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.5,
 					1.0
 				],
 				"rows":
@@ -1066,17 +1756,17 @@
 					1.0
 				]
 			},
-			"menu_visible": false,
+			"menu_visible": true,
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,968,27,163,956",
-			"project": "andreascmj.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,913,155,108,1038",
+			"project": "Exjobb.sublime-project",
 			"replace":
 			{
-				"height": 56.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1085,6 +1775,18 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"se",
+						"sessions.py"
+					],
+					[
+						"",
+						"structures.py"
+					],
+					[
+						"test",
+						"test.py"
+					]
 				],
 				"width": 0.0
 			},
@@ -1096,43 +1798,47 @@
 				[
 					[
 						"",
-						"C:\\Users\\Andreas\\Git\\Exjobb\\Exjobb.sublime-project"
+						"C:\\Users\\Andreas\\Git\\andreascmj.github.io\\andreascmj.sublime-project"
 					]
 				],
 				"width": 475.0
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 443.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"Session"
+					]
 				],
-				"width": 0.0
+				"width": 468.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
+			"show_open_files": true,
+			"show_tabs": false,
 			"side_bar_visible": true,
-			"side_bar_width": 244.0,
+			"side_bar_width": 182.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
 			"window_id": 4,
-			"workspace_name": "/C/Users/Andreas/Git/andreascmj.github.io/andreascmj.sublime-workspace"
+			"workspace_name": "/C/Users/Andreas/Git/Exjobb/Exjobb.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/C/Users/Andreas/Git/andreascmj.github.io/andreascmj.sublime-workspace",
-			"/C/Users/Andreas/Git/Exjobb/Exjobb.sublime-workspace"
+			"/C/Users/Andreas/Git/Exjobb/Exjobb.sublime-workspace",
+			"/C/Users/Andreas/Git/andreascmj.github.io/andreascmj.sublime-workspace"
 		]
 	}
 }
